@@ -10,6 +10,5 @@ public class ArrayBilangan02 {
         System.out.println(bil[1]);
         System.out.println(bil[2]);
         System.out.println(bil[3]);
-        System.out.println("");
     }
 }
